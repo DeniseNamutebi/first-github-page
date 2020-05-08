@@ -22,14 +22,14 @@
  Leave out work where you won’t be able to get the dependencies donesomeone captures that information in your project management or collaboration tool, like your Jira tickets.
 
 ## Different Ceremonies in a sprint;
-There are different meetings (ceremonies) that make up the scrum framework;
+  There are different meetings (ceremonies) that make up the scrum framework;
 
 ### Backlog grooming - product owner, scrum master (30 minutes before sprint planning)
-Going over details with the product owner to make sure nothing is left out before going over things with developers. 
-A product backlog is a prioritized list of work for the development team that is derived from the roadmap and its requirements.
+ Going over details with the product owner to make sure nothing is left out before going over things with developers. 
+ A product backlog is a prioritized list of work for the development team that is derived from the roadmap and its requirements.
 
 ### Sprint planning - development team, scum master and product owner.(1 hour before sprint cycle)
-Discusses the object of the sprint; the what, how who and the inputs and ouputs of the sprint.
+ Discusses the object of the sprint; the what, how who and the inputs and ouputs of the sprint.
 
 ### When planning a sprint you should;
  Setting a time limit for sprint planning
@@ -40,10 +40,10 @@ Discusses the object of the sprint; the what, how who and the inputs and ouputs 
            Stand-up is designed to quickly inform everyone of what's going on across the team
 
 ### Iteration Review - Everyone may include project stakeholders( 30 -1 hour)
-This a showcase of work aka a demo
+ This a showcase of work aka a demo
 
 ### Retrospect - Development team, scrum master, product owner and anyone who worked on the project (1 hour)
-            Retrospectives help the team understand what worked well and what didn't to improve the way the team works.(feedback)
+ Retrospectives help the team understand what worked well and what didn't to improve the way the team works.(feedback)
 
 
 
