@@ -8,6 +8,16 @@
 ## SPRINTS
 ### WHAT IS SPRINT 
 #### A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work.
+#### A product is built in a series of iterations called sprints that break down big, complex projects into bite-sized pieces
+#### Sprints make projects more manageable, allow teams to ship high-quality work faster and more frequently, and gives them more flexibility to adapt to change.Sprints help teams follow the agile principle of "delivering working software frequently," as well as live the agile value of "responding to change over following a plan." 
+
+### In a sprint it’s important to make that:
+### The backlog with your priorities and dependencies in order. 
+### Sprint Planning meetings flesh out intimate details of the work that needs to get done.
+### Leave out work where you won’t be able to get the dependencies donesomeone captures that information in your project management or collaboration tool, like your Jira tickets.
+
+ ## Different Ceremonies in a sprint
 
 
+###### [source](https://www.atlassian.com/agile/scrum)
 
