@@ -31,24 +31,19 @@
 ### Sprint planning - development team, scum master and product owner.(1 hour before sprint cycle)
  Discusses the object of the sprint; the what, how who and the inputs and ouputs of the sprint.
 
-### When planning a sprint you should;
+#### When planning a sprint you should;
  Setting a time limit for sprint planning
  Focus on theo utcomes not the work
  Estimates are required but don’t pretend you know more than you do
 
- ### Daily stand-up - development teaam, scrum master and product owner(15 minutes daily)
-           Stand-up is designed to quickly inform everyone of what's going on across the team
+### Daily stand-up - development teaam, scrum master and product owner(15 minutes daily)
+ Stand-up is designed to quickly inform everyone of what's going on across the team
 
 ### Iteration Review - Everyone may include project stakeholders( 30 -1 hour)
  This a showcase of work aka a demo
 
 ### Retrospect - Development team, scrum master, product owner and anyone who worked on the project (1 hour)
  Retrospectives help the team understand what worked well and what didn't to improve the way the team works.(feedback)
-
-
-
-
-
 
 (source)[https://www.atlassian.com/agile/scrum]
 
