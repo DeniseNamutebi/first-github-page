@@ -48,5 +48,5 @@
 
 
 
-(Further information!) [https://www.atlassian.com/agile/scrum]
+[Further information!](https://www.atlassian.com/agile/scrum)
 
